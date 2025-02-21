@@ -9,7 +9,7 @@
 - layout: left
   name: 임베디드 개발
   description: | # this will include new lines to allow paragraphs
-    * RTOS, 펌웨어 개발
+    * GUI Application 개발, RTOS, 펌웨어 개발
     * 통신 프로토콜 : UART, SPI, I2C
 - layout: left
   name: 툴 & 플랫폼
