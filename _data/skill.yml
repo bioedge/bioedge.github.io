@@ -1,25 +1,26 @@
 - layout: left
   name: 프로그래밍 언어
   description: | # this will include new lines to allow paragraphs
-    * QT, QML (상) - 대부분의 제품 개발
-    * C, C++ (상) - F/W 개발 및 네트워크 통신
-    * Android, Kotlin (중) - e-Navigation 선박단말기 S/W 개발
-    * Opencv (중) - 영상처리 알고리즘 개발
-    * Java (중) - 안드로이드 어플 개발
+    * QT, QML (상) : 제품 개발 전반
+    * C, C++ (상) : 펌웨어 개발 및 네트워크 통신
+    * Android, Kotlin (중) : e-Navigation 선박단말기 S/W 개발
+    * Opencv (중) : 영상 처리 알고리즘 개발
+    * Java (중) : 안드로이드 앱 개발
 - layout: left
   name: 임베디드 개발
   description: | # this will include new lines to allow paragraphs
-    * RTOS, Firmware개발, UART, SPI, I2C
+    * RTOS, 펌웨어 개발
+    * 통신 프로토콜 : UART, SPI, I2C
 - layout: left
   name: 툴 & 플랫폼
   description: | # this will include new lines to allow paragraphs
-    * Git
-    * Linux, Ubuntu
-    * VirtualBox, Vmware
+    * 버전 관리 : Git
+    * 운영체제 : Linux, Ubuntu, Windows
+    * 가상화 : VirtualBox, VMware
 - layout: left
   name: 네트워크 & 통신
   description: | # this will include new lines to allow paragraphs
-    * TCP/IP, UDP, Broadcast, Unicast
+    * 프로토콜: TCP/IP, UDP, Broadcast, Unicast
 
   
 
