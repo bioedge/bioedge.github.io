@@ -1,28 +1,29 @@
 - layout: left
-  name: 패스트캠퍼스 AWS 운영 서버 관리 마스터 워크샵
-  dates: 2018.04 ~ 2018.05
-  link: https://github.com/jojoldu/fastcampus-aws-workshop
+  name: 서울 대한상공회의소
+  dates: 2014.01 ~ 2015.01
+  link: https://www.korcham.net/
   quote: >
-    AWS 운영에 필요한 기본 개념들과 배포 환경 구성 교육
+    인턴 생활 및 4차산업선도인력양성 빅데이터를 활용한 지능형 IoT 서비스 개발 교육
   description: | # this will include new lines to allow paragraphs
-    * 신규 개편할 포인트 시스템의 AWS 인프라 구축이 필요해 참여
-    * Code Deploy를 통한 무중단 배포, Cloud Watch 모니터링 등 
+    * OTP 알고리즘 및 스마트폰 기반 출입 관리 시스템 개발
+    * 기존 도어락에 네트워크 솔루션을 결합한 스마트 도어락 개발, 보안 중심의 시스템 설계
 - layout: left
-  name: 패스트캠퍼스 SQL 튜닝 캠프
-  dates: 2017.07 ~ 2017.08
-  link: https://jojoldu.tistory.com/162
+  name: 대학교 학위 논문
+  dates: 2004.03 ~ 2011.02
+  link: 
   quote: >
-    오라클을 기반의 쿼리 튜닝 교육
+    안드로이드 플랫폼을 활용한 용적 맥파 시스템 구현
   description: | # this will include new lines to allow paragraphs
-    * 정산 시스템을 개발/운영 하면서 복잡한 쿼리 + 쿼리 성능 튜닝의 필요성을 느껴 참여
-    * 기본적인 인덱스, 실행 계획, RDBMS의 구조
-    * 실제 업무에 적용 후 쿼리 성능 향상 (5초 -> 1.2초)
+    * 영상처리 연구실과 부산대학교 연구실 협업, 진단 및 처방 가능한 원격 진료 프로그램 개발
+    * PPG 혈류량 및 미분파형 분석을 통해 혈압 및 당뇨 사전 검사 연구 및 조기 예방 가능성 도출
+    * 안드로이드 플랫폼을 활용한 용적 맥파 시스템 구현 관련 학술 논문 게재
+    * 이화여자대학교 멀티미디어학회 추계학술대회에서 발표 진행
 - layout: left
-  name: 패스트캠퍼스 자바 웹 프로그래밍 CAMP
-  dates: 2016.07 ~ 2016.08
-  link: https://jojoldu.tistory.com/301
+  name: 대학교 졸업작품
+  dates: 2004.03 ~ 2011.02
+  link: 
   quote: >
-    자바지기 박재성님의 교육
+    자동차 번호판 영역 인식 프로그램
   description: | # this will include new lines to allow paragraphs
-    * 테스트 코드와 클린 코드 교육
+    * Hough 변환 및 명암도 변화를 이용한 자동차 번호판 인식 프로그램 개발
     
