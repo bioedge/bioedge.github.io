@@ -1,56 +1,26 @@
 - layout: top-middle
-  name: 개발 파트 매니징
-  link: https://www.notion.so/5badc2ba03904832bce8fdf3dc4a407b
-  quote: >
-    2018.04.01 ~ 현재
-  description: | # this will include new lines to allow paragraphs
-    * 인프랩 CTO (2021.07.01 ~ 현재)
-    * 인프랩 신규 서비스(랠릿) 프로젝트 전체 리드 (2021.07.01 ~ 2022.01.31)
-    * 배달의 민족 정산 시스템팀 개발 파트 리드 (2019.07.01 ~ 2021.04.19)
-    * 배달의 민족 포인트 개편 TF 리드 (2018.04.01 ~ 2018.07.31)
-
-- layout: top-middle
-  name: 레거시 시스템 리팩토링/리엔지니어링
+  name: 크로스 플랫폼 애플리케이션 개발
   link:
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * 인프런 전체 시스템 (JS & Express => TS & NestJS) 마이그레이션 (2021.06.01 ~ ing..)
-    * 인프런 RDS -> Aurora 마이그레이션 (2021.06.01 ~ 2021.06.20)
-    * [배달의 민족 정산 시스템 AWS 마이그레이션](https://www.youtube.com/watch?v=3ynQeAZpk4Y) (2020.06.01 ~ 2020.11.20)
-    * [배달의 민족 주문 시스템 개편](https://jojoldu.tistory.com/373) (2018.08.01 ~ 2018.10.31)
-    * [배달의 민족 포인트 시스템 개편](http://bit.ly/2EcIXIA) (2018.04.01 ~ 2018.07.31)
-    * [배달의 민족 정산 시스템 개편](http://bit.ly/2ksIEQB) (2017.01.01 ~ 2017.08.17)
-
+    * QT 및 QML 개발 : 다양한 플랫폼에서 호환되는 애플리케이션 개발, 멀티 OS 환경에서의 UI/UX 설계 및 최적화
+    * Android 및 Kotlin 개발 : Android 플랫폼에서의 응용 프로그램 개발, Kotlin을 활용한 효율적인 코드 구현
+    * 고급 시스템 설계 : 대규모 시스템에서의 문제 해결, 최적화 및 성능 개선, 대용량 데이터 처리 능력
 - layout: top-middle
-  name: 대용량 데이터 처리 및 성능 개선
+  name: 임베디드 시스템 개발
   link:
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * 인프런 PostgreSQL SlowQuery 전체 튜닝
-    * 일 주문 300만건의 정산 시스템 API / Batch 개발 및 운영
-    * 일 주문 100만건의 포인트 시스템 메세지큐 / API / Batch 개발 및 운영
-    * 일 PV 2000만건의 포털 메인페이지 개발 및 관리
-    * Message Queue (AWS SQS) 를 이용한 비동기 포인트 처리 / 메일 발송 시스템 구현
-    * [대용량 Batch 시스템 구현](https://jojoldu.tistory.com/category/Spring%20Batch)
-    * [Pinpoint/Ngrinder를 통한 성능 테스트 및 개선](https://jojoldu.tistory.com/318)
-    * [JPA / Querydsl / MySQL 성능 개선](https://jojoldu.tistory.com/tag/db%20%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0)
-
+    * RTOS 및 Firmware 개발 : 실시간 운영체제(RTOS) 기반 펌웨어 개발, 다양한 하드웨어 통합 경험. UART, SPI, I2C와 같은 통신 프로토콜을 활용한 시스템 설계 및 최적화
+    * 네트워크 통신 : TCP/IP, UDP를 이용한 데이터 전송 및 통신 시스템 개발, 실시간 데이터 처리 및 네트워크 효율화
+    * 영상 처리 및 머신 비전 : OpenCV 라이브러리를 이용한 영상 처리 및 알고리즘 개발, 객체 탐지, 객체 인식 등 다양한 비전 기반 시스템 설계 경험
+    * 리눅스 환경에서의 개발 : Linux/Ubuntu 환경에서의 시스템 프로그래밍 및 디버깅
 - layout: top-middle
-  name: 견고한 데이터 구조 및 애플리케이션 설계
+  name: 팀 리더십 및 프로젝트 관리
   link:
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * 일 600억원 & 300만건 주문에서의 일일 정산
-    * 감사 추적(Audit Trail)을 위한 채권/미수금/보상의 Update가 없는 도메인 설계
-    * 감사 추적(Audit Trail)을 위한 이벤트 기반 포인트 도메인 설계
-    * 정산 프로젝트 TestCode 2500개 / Line Coverage 61%
-
-- layout: top-middle
-  name: IDC 및 AWS 클라우드 인프라 운영 관리
-  link:
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    * [AWS] Jenkins / Code Deploy / Beanstalk 을 이용한 무중단 배포
-    * [IDC] Jenkins / L4 / Nginx를 이용한 무중단 배포
-    * [IDC] MHA 를 이용한 MariaDB HA 환경 구성
-    * [IDC] Ansible를 이용한 IDC 인프라 자동화
+    * 프로젝트 리딩 : 크로스 팀 협업 및 프로젝트 리딩 경험, 복잡한 시스템 개발 및 요구 사항 분석
+    * 고객 맞춤형 개발 : 고객의 요구사항을 기반으로 한 맞춤형 개발, 성능 튜닝 및 개선 경험
+    * 팀워크 및 협업 : Git을 활용한 버전 관리 및 팀 협업 경험, 애자일 개발 환경에서의 프로젝트 관리, 팀원과의 효율적인 의사소통 및 문제 해결 능력
+    * 문제 해결 및 최적화 : 복잡한 시스템 문제를 분석하고 해결하는 능력, 성능 개선을 위한 코드 최적화 및 리팩토링 경험
