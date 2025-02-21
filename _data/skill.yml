@@ -1,28 +1,25 @@
 - layout: left
-  name: Backend
+  name: 프로그래밍 언어
   description: | # this will include new lines to allow paragraphs
-    * Java, Groovy, NodeJS (TypeScript),
-    * NestJS, Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud AWS
-    * TypeORM, JPA, Querydsl, Hibernate
-    * Jest, Supertest, Junit4/5, Mockito, Spock
-    * Gradle, Maven
-    * IntelliJ, WebStorm, Visual Studio Code
+    * QT, QML (상) - 대부분의 제품 개발
+    * C, C++ (상) - F/W 개발 및 네트워크 통신
+    * Android, Kotlin (중) - e-Navigation 선박단말기 S/W 개발
+    * Opencv (중) - 영상처리 알고리즘 개발
+    * Java (중) - 안드로이드 어플 개발
 - layout: left
-  name: DevOps
+  name: 임베디드 개발
   description: | # this will include new lines to allow paragraphs
-    * MySQL, MariaDB, PostgreSQL
-    * Jenkins, TravisCI, AWS Code Deploy
-    * AWS Beanstalk, AWS SQS, Elastic Cache (Redis), RDS (Aurora), S3, EC2, Cloud Watch
-    * Nginx, Tomcat
-    * Pinpoint, Ngrinder
-    * Linux Centos
+    * RTOS, Firmware개발, UART, SPI, I2C
 - layout: left
-  name: Frontend
+  name: 툴 & 플랫폼
   description: | # this will include new lines to allow paragraphs
-    * ES6
-    * Npm, Grunt, Webpack
-    * Handlebars, Lodash
-    * Backbone
+    * Git
+    * Linux, Ubuntu
+    * VirtualBox, Vmware
+- layout: left
+  name: 네트워크 & 통신
+  description: | # this will include new lines to allow paragraphs
+    * TCP/IP, UDP, Broadcast, Unicast
 
   
 
