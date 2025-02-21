@@ -1,0 +1,75 @@
+# Site
+repository: bioedge/bioedge.github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: 정창호
+title: Embedded S/W 개발자
+email: 230329@naver.com
+#website: https://jojoldu.tistory.com
+
+# Social links
+# twitter_username: jojoldu
+#github_username:  bioedge
+# dribbble_username: jekyll
+#facebook_username: jojoldu
+# flickr_username: jekyll
+# linkedin_username: jojoldu
+# pinterest_username: jekyll
+#youtube_username: UCSEOUzkGNCT_29EU_vnBYjg
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  <mark>10년 차 이상의 임베디드 소프트웨어 개발자</mark>로, 선박 자동식별 장치(AIS), e-Navigation 단말기, 선박 내비게이션, 
+  그리고 3D 프린터 등 다양한 임베디드 시스템 개발을 수행해 왔습니다.<br/>
+  전 세계 판매되는 제품의 S/W 개발을 주도했으며, AIS 시스템 최적화부터 3D 프린터의 UV광 조사 제어 알고리즘까지, 
+  고객 요구사항을 충족하는 임베디드 솔루션을 설계하고 구현하는 데 집중해 왔습니다.<br/><br/>
+
+  기술적으로는 **C, C++, Qt, QML, Android(Kotlin), Opencv, 네트워크 프로토콜, 실시간 임베디드 시스템 최적화에 강점**을 가지며, 
+  제품의 안정성과 성능 향상을 위한 알고리즘 개발 및 최적화 경험이 풍부합니다.<br/>
+  특히, 해양수산부 프로젝트 및 한국기계연구원(KIMS), DIO 임플란트, Shofu, Tethon 등의 국내외 기관 및 기업과 협업하여 
+  ODM 및 상용 제품을 개발하고 글로벌 시장에 진출한 경험이 있습니다.<br/><br/>
+
+  개인의 성취보다는 팀과 **프로젝트의 성공을 최우선**으로 하며, S/W 안정성을 위한 최적화, 네트워크 및 통신 프로토콜 구현,
+  A/S 및 원격 유지보수 기능 개발 등, 제품의 실제 운영 환경에서의 품질과 효율성을 고려한 개발을 수행해 왔습니다.<br/>
+  현재는 단순한 개발을 넘어 **제품 기획, 팀 매니징, 제품 방향성 고려 등 조직과 팀의 성장에 기여하는 역할**을 수행하고 있습니다.<br/>
+
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+# more_content: | # this will include new lines to allow paragraphs
+#  여러 주제로 발표와 기고, 출판을 해왔습니다.
+#   - [인프콘 2022 - 인프런 아키텍처의 과거, 현재 그리고 미래](https://www.youtube.com/watch?v=D_QH50UkX_4)
+#   - [MongoDB Day Seoul 2022 - 초기 스타트업과 MongoDB Search](https://www.ddaily.co.kr/news/article/?no=249222)
+#   - [우아콘 2020 - 수십억건에서 Querydsl 사용하기](https://www.youtube.com/watch?v=zMAX7g6rO_Y)
+#   - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://jojoldu.tistory.com/463)
+#   - [EO 인터뷰](https://www.youtube.com/watch?v=V9AGvwPmnZU&t=2s)
+#   - [2019 우아한 스프링 배치](https://www.youtube.com/watch?v=_nkJkWVH-mo&t=14s)
+#   - [인프런 - IntelliJ IDEA 가이드](https://www.inflearn.com/course/intellij-guide)
+#   - [2018 KCD - IntelliJ IDEA만으로 개발하기](https://www.youtube.com/watch?v=wBXSUdT1jX0)
+#   - [2018 JetBrains Day - Upsource를 이용한 코드리뷰](https://www.youtube.com/watch?v=06bJt6CnRAU&feature=youtu.be)
+#   - [마소 394호 - AWS EC2와 TravisCI를 활용한 무중단 배포 서비스](http://it.chosun.com/site/data/html_dir/2018/10/29/2018102900482.html)
+  
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
